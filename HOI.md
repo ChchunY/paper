@@ -8,3 +8,4 @@
 ## CVPR2022
 1. Human-Object Interaction Detection via Disentangled Transformer[[paper]](https://arxiv.org/abs/2204.09290)
 2. Distillation Using Oracle Queries for Transformer-based Human-Object Interaction Detection[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Distillation_Using_Oracle_Queries_for_Transformer-Based_Human-Object_Interaction_Detection_CVPR_2022_paper.pdf)[[code]](https://github.com/SherlockHolmes221/DOQ)
+3. Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer[[paper]](https://arxiv.org/abs/2112.01838v1)[[code]](https://github.com/fredzzhang/upt)
