@@ -9,3 +9,10 @@
 1. Human-Object Interaction Detection via Disentangled Transformer[[paper]](https://arxiv.org/abs/2204.09290)
 2. Distillation Using Oracle Queries for Transformer-based Human-Object Interaction Detection[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Distillation_Using_Oracle_Queries_for_Transformer-Based_Human-Object_Interaction_Detection_CVPR_2022_paper.pdf)[[code]](https://github.com/SherlockHolmes221/DOQ)
 3. Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer[[paper]](https://arxiv.org/abs/2112.01838v1)[[code]](https://github.com/fredzzhang/upt)
+4. MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection[[paper]](https://arxiv.org/abs/2203.14709)
+5. What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions[[paper]](https://arxiv.org/abs/2204.00746)
+6. Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection[[paper]](https://arxiv.org/abs/2204.04836)[[code]](https://github.com/mlvlab/CPC_HOI)
+7. Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection[[paper]](https://arxiv.org/abs/2206.06291)[[code]](https://github.com/zyong812/STIP)
+8. Category-Aware Transformer Network for Better Human-Object Interaction Detection[[paper]](https://arxiv.org/abs/2204.04911)
+## CVPR2021
+1. End-to-End Human Object Interaction Detection with HOI Transformer[[paper]](https://arxiv.org/abs/2103.04503)[[code]](https://github.com/bbepoch/HoiTransformer)
