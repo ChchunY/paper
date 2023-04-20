@@ -10,9 +10,17 @@
 2. Distillation Using Oracle Queries for Transformer-based Human-Object Interaction Detection[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Qu_Distillation_Using_Oracle_Queries_for_Transformer-Based_Human-Object_Interaction_Detection_CVPR_2022_paper.pdf)[[code]](https://github.com/SherlockHolmes221/DOQ)
 3. Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer[[paper]](https://arxiv.org/abs/2112.01838v1)[[code]](https://github.com/fredzzhang/upt)
 4. MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection[[paper]](https://arxiv.org/abs/2203.14709)
-5. What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions[[paper]](https://arxiv.org/abs/2204.00746)
+5. What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions[[paper]](https://arxiv.org/abs/2204.00746)Oral 
 6. Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection[[paper]](https://arxiv.org/abs/2204.04836)[[code]](https://github.com/mlvlab/CPC_HOI)
 7. Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection[[paper]](https://arxiv.org/abs/2206.06291)[[code]](https://github.com/zyong812/STIP)
 8. Category-Aware Transformer Network for Better Human-Object Interaction Detection[[paper]](https://arxiv.org/abs/2204.04911)
 ## CVPR2021
 1. End-to-End Human Object Interaction Detection with HOI Transformer[[paper]](https://arxiv.org/abs/2103.04503)[[code]](https://github.com/bbepoch/HoiTransformer)
+2. HOTR: End-to-End Human-Object Interaction Detection with Transformers[[paper]](https://arxiv.org/abs/2104.13682)[[code]](https://github.com/kakaobrain/HOTR)Oral 
+
+
+## ECCV2022
+1. IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition[[paper]](https://arxiv.org/abs/2207.12100)
+
+## ICCV2021
+1. Visual Relationship Detection Using Part-and-Sum Transformers with Composite Queries[[paper]](https://arxiv.org/abs/2105.02170)
